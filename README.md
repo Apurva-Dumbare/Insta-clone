@@ -23,6 +23,12 @@ CSS
 source code: 
 https://codesandbox.io/s/wonderful-raman-ffj9q5?file=/index.html
 
+# output:
+
+![Screenshot (3)](https://github.com/Apurva-Dumbare/Insta-clone/assets/138021715/580e5d20-ce92-4898-a6e2-9482cd3b6b56)
+
+
+
 # Certificate
 I am proud to have received a certificate from the Google Developer Student Club and Microsoft Learn Student Ambassador for completing their program. This certificate validates my proficiency and commitment to learning web development.
 
@@ -36,11 +42,6 @@ I am proud to have received a certificate from the Google Developer Student Club
 ![Screenshot (5)](https://github.com/Apurva-Dumbare/Insta-clone/assets/138021715/a4dacd72-048b-4d86-9482-dbd3d9c91f0e)
 
 
-
-
-# output:
-
-![Screenshot (3)](https://github.com/Apurva-Dumbare/Insta-clone/assets/138021715/580e5d20-ce92-4898-a6e2-9482cd3b6b56)
 
 
 
